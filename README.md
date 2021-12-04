@@ -55,6 +55,6 @@ Git Config   36 mins         █░░░░░░░░░░░░░░░░
 </details>
 
 -----
-Credits: [abhisheknaiidu](https://github.com/abhisheknaiidu)
+Credits: [edward yara](https://github.com/oluyaratosin123)
 
 Last Edited on: 30/08/2020
