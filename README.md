@@ -58,3 +58,23 @@ Git Config   36 mins         █░░░░░░░░░░░░░░░░
 Credits: [edward yara](https://github.com/oluyaratosin123)
 
 Last Edited on: 30/08/2020
+
+# Reviewers comment on to do list project structure
+
+Hi @oluyaratosin123,
+Good job so far!
+There are some issues that you still need to work on to go to the next project but you are almost there!
+
+Required Changes ♻️
+Check the comments under the review.
+
+ Please write a PR its not professional to submit a project with an empty PR
+ Write README and don't forget to add how to get the app locally up and running
+Cheers and Happy coding!👏👏👏
+Feel free to leave a question, or a comment on the PR thread if something is not clear 100%.
+
+Please, do not open a new Pull Request for re-reviews. You should use the same Pull Request submitted for the first review, either valid or invalid unless it is requested otherwise.
+
+As described in the Code reviews limits policy you have a limited number of reviews per project (check the exact number in your Dashboard). If you think that the code review was not fair, you can request a second opinion using this form.
+
+On page load, the eventlist array is should be rendered dynamically to the DOM.
