@@ -88,4 +88,4 @@ Please, do not open a new Pull Request for re-reviews. You should use the same P
 As described in the Code reviews limits policy you have a limited number of reviews per project (check the exact number in your Dashboard). If you think that the code review was not fair, you can request a second opinion using this form.
 
 
-On page load, the eventlist array is should be rendered dynamically to the DOM.
+On page load, the eventlist array should be rendered dynamically to the DOM.
