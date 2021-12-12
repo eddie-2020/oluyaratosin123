@@ -7,13 +7,13 @@
   <img align="left" alt="Edward's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=oluyaratosin123)
 
 <br />
 
-Hi, I'm Edward [Edward Yara](https://abhisheknaidu.tech), a Full Stack Developer 🚀 from Nigeria, currently, I'm a Community Team Member 🙍🏽‍♂️ [@microverseinc](http://www.microverse.org), student 👨🏽‍💻 [ http://www.microverse.org]( http://www.microverse.org), Mentor 👨🏽‍💼[@GraceKagbaghe](https://github.com/gracekabaghe) 
+Hi, I'm Edward [Edward Yara](https://oluyaratosin123.tech), a Full Stack Developer 🚀 from Nigeria, currently, I'm a Community Team Member 🙍🏽‍♂️ [@microverseinc](http://www.microverse.org), student 👨🏽‍💻 [ http://www.microverse.org]( http://www.microverse.org), Mentor 👨🏽‍💼[@GraceKagbaghe](https://github.com/gracekabaghe) 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/oluyaratosin123 /blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
@@ -47,12 +47,7 @@ Git Config   36 mins         █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<details>
-<summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=EdwardYara&show_icons=true&theme=gotham" alt="Edward Yara" />
-
-</details>
 
 -----
 Credits: [edward yara](https://github.com/oluyaratosin123)
