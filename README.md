@@ -14,7 +14,7 @@
 Hi, I'm Edward [Edward Yara](https://oluyaratosin123.tech), a Full Stack Developer 🚀 from Nigeria, currently, I'm a Community Team Member 🙍🏽‍♂️ [@microverseinc](http://www.microverse.org), student 👨🏽‍💻 [ http://www.microverse.org]( http://www.microverse.org), Mentor 👨🏽‍💼[@GraceKagbaghe](https://github.com/gracekabaghe) 
 
 
-
+[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
 
 
 **Talking about Personal Stuffs:**
