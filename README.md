@@ -12,7 +12,7 @@
 Hi, I'm Edward Yara, a Full Stack Developer 🚀 from Nigeria, currently, I'm a Community Team Member at [@microverseinc](http://www.microverse.org), student: [ http://www.microverse.org]( http://www.microverse.org), Mentor: [@GraceKagbaghe](https://github.com/gracekabaghe) 
 
 
-[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
+[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://angel.co/profile/edit/overview) 
 
 
 **Talking about Personal Stuffs:**
