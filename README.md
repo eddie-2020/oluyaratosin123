@@ -3,15 +3,13 @@
 <a href="https://www.linkedin.com/in/edward-oluyara-708b88215/">
   <img align="left" alt="Edward's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/oluyaratosin123">
-  <img align="left" alt="Edward's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=oluyaratosin123)
 
 <br />
 
-Hi, I'm Edward [Edward Yara](https://oluyaratosin123.tech), a Full Stack Developer 🚀 from Nigeria, currently, I'm a Community Team Member 🙍🏽‍♂️ [@microverseinc](http://www.microverse.org), student 👨🏽‍💻 [ http://www.microverse.org]( http://www.microverse.org), Mentor 👨🏽‍💼[@GraceKagbaghe](https://github.com/gracekabaghe) 
+Hi, I'm Edward Yara, a Full Stack Developer 🚀 from Nigeria, currently, I'm a Community Team Member at [@microverseinc](http://www.microverse.org), student: [ http://www.microverse.org]( http://www.microverse.org), Mentor: [@GraceKagbaghe](https://github.com/gracekabaghe) 
 
 
 [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
@@ -19,7 +17,7 @@ Hi, I'm Edward [Edward Yara](https://oluyaratosin123.tech), a Full Stack Develop
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently a student at microverse;
+- 👨 I’m currently a student at microverse;
 - 🌱 I’m currently learning JavaScript and React; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@Oluyara Edward](https://www.linkedin.com/in/edward-oluyara-708b88215/);
