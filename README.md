@@ -51,6 +51,8 @@ Hi, I'm Edward Yara, a Full Stack Developer 🚀 from Nigeria, currently, I'm a 
 
 <!--START_SECTION:waka-->
 ```text
+
+Edwards' current status
 JavaScript 7 hrs 41 mins    ████████████▓░░░░░░░░░░░░   50% 
 
 React native 4hrs 41 mins   █████████░░░░░░░░░░░░        35% 
