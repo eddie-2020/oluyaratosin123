@@ -28,7 +28,7 @@ Hi, I'm Edward Yara, a Full Stack Developer 🚀 from Nigeria, currently, I'm a 
 - 📝[Resume](https://oluyaratosin123.github.io/Portfolio1/)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
+Edwards' status ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
 
 
 **Languages and Tools:**  
@@ -52,7 +52,7 @@ Hi, I'm Edward Yara, a Full Stack Developer 🚀 from Nigeria, currently, I'm a 
 <!--START_SECTION:waka-->
 ```text
 
-Edwards' current status
+
 JavaScript 7 hrs 41 mins    ████████████▓░░░░░░░░░░░░   50% 
 
 React native 4hrs 41 mins   █████████░░░░░░░░░░░░        35% 
