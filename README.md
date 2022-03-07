@@ -36,7 +36,7 @@ Hi, I'm Edward Yara, a Full Stack Developer 🚀 from Nigeria, currently, I'm a 
 <code><img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg"></code>
-<code><img height="50" width="50" src="https://icons8.com/icons/set/sql-logo"></code>
+<code><img height="50" width="50" src="https://img.icons8.com/color/48/000000/sql.png"></code>
 </div>
 
 
