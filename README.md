@@ -35,8 +35,8 @@ Hi, I'm Edward Yara, a Full Stack Developer 🚀 from Nigeria, currently, I'm a 
 <div style="display; flex; flex-direction: column; flex-wrap: wrap;"  >
 <code><img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 </div>
 
 
@@ -47,5 +47,5 @@ Hi, I'm Edward Yara, a Full Stack Developer 🚀 from Nigeria, currently, I'm a 
 -----
 Credits: [edward yara](https://github.com/oluyaratosin123)
 
-Last Edited on: 30/08/2020
+Last Edited on: 07/03/2022
 
