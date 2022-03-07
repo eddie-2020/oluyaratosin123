@@ -44,6 +44,8 @@ Hi, I'm Edward Yara, a Full Stack Developer 🚀 from Nigeria, currently, I'm a 
 <code><img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"></code>
 <code><img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass-avatar.png"></code>
 <code><img height="50" width="50" src="https://img.icons8.com/nolan/64/heroku.png"></code>
+<code><img height="50" width="50" src="https://img.icons8.com/color/48/000000/typescript.png"></code>
+<code><img height="50" width="50" src="https://img.icons8.com/windows/32/000000/ruby-on-rails.png"></code>
 </div>
 
 
