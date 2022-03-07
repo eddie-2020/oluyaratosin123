@@ -3,7 +3,12 @@
 <a href="https://www.linkedin.com/in/edward-oluyara-708b88215/">
   <img align="left" alt="Edward's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
+<a href="https://angel.co/u/edward-yara">
+  <img align="left" alt="Edward's AngelList" width="22px" src="https://img.icons8.com/nolan/64/angelist.png" />
+</a>
+<a href="https://angel.co/u/edward-yara">
+  <img align="left" alt="Edward's AngelList" width="22px" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=oluyaratosin123)
 
