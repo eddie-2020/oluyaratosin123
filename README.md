@@ -6,8 +6,17 @@
 <a href="https://angel.co/u/edward-yara">
   <img align="left" alt="Edward's AngelList" width="22px" src="https://img.icons8.com/nolan/64/angelist.png" />
 </a>
-<a href="https://angel.co/u/edward-yara">
-  <img align="left" alt="Edward's AngelList" width="22px" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" />
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
+  <img align="left" alt="Edward's Mail" width="22px" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" />
+</a>
+<a href="https://twitter.com/TOluyara">
+  <img align="left" alt="Edward's Mail" width="22px" src="https://img.icons8.com/fluency/48/000000/twitter-circled.png" />
+</a>
+<a href="https://www.instagram.com/oluyaratosin123/">
+  <img align="left" alt="Edward's IG" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />
+</a>
+<a href="https://medium.com/@oluyaratosin123">
+  <img align="left" alt="Edward's medium" width="22px" src="https://img.icons8.com/color-glass/48/000000/medium-logo.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=oluyaratosin123)
