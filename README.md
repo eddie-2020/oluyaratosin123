@@ -19,8 +19,6 @@
   <img align="left" alt="Edward's medium" width="22px" src="https://img.icons8.com/color-glass/48/000000/medium-logo.png" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=oluyaratosin123)
-
 <br />
 
 Hi, I'm Edward Yara, a Full Stack Developer 🚀 from Nigeria, currently, I'm a Community Team Member at [@microverseinc](http://www.microverse.org), student: [ http://www.microverse.org]( http://www.microverse.org), Mentor: [@GraceKagbaghe](https://github.com/gracekabaghe) mailto: [oluyaratosin123@gmail.com]
