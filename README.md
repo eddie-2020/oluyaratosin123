@@ -32,7 +32,8 @@ Hi, I'm Edward Yara, a Full Stack Developer 🚀 from Nigeria, currently, I'm a 
 
 - 👨 I’m currently a student at microverse;
 
-- 🌱 I’m currently learning JavaScript, React-Redux, Ruby on rails and SQL;
+- 🌱 I’m currently learning JavaScript, React-Redux, Node,
+ Ruby on rails and SQL;
 
 - 💬 Ask me about anything, I am happy to help:
 
