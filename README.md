@@ -39,7 +39,7 @@ Hi, I'm Edward Yara, a Full Stack Developer 🚀 from Nigeria, currently, I'm a 
 
 - 📫 How to reach me: [@Oluyara Edward](https://www.linkedin.com/in/edward-oluyara-708b88215/);
 
-- 📝[Resume](https://oluyaratosin123.github.io/Portfolio1/)
+- 📝[Resume](https://docs.google.com/document/d/1N6I_qk2qaJaDphe1EsuYcrJk88J9lMhF0D1uqPbWDDM/edit)
 
 
 
