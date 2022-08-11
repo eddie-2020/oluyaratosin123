@@ -25,8 +25,7 @@
 Hi, I'm Edward Yara, a Full Stack Developer 🚀 from Nigeria, currently, I'm a Community Team Member at [@microverseinc](http://www.microverse.org), student: [ http://www.microverse.org]( http://www.microverse.org), Mentor: [@GraceKagbaghe](https://github.com/gracekabaghe) mailto: [oluyaratosin123@gmail.com]
 
 
-[<img align='right' src="https://giphy.com/embed/oB6KlAvOuaLtxYy8l4" width="220" alt="giphy">](https://angel.co/profile/edit/overview) 
-<iframe src="https://giphy.com/embed/WTjXuYA2y4o3UZly3W" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+[<img align='right' src="src="https://giphy.com/embed/WTjXuYA2y4o3UZly3W"" width="220" alt="giphy">](https://angel.co/profile/edit/overview) 
 
 **Talking about Personal Stuffs:**
 
