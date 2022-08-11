@@ -26,7 +26,7 @@ Hi, I'm Edward Yara, a Full Stack Developer 🚀 from Nigeria, currently, I'm a 
 
 
 [<img align='right' src="https://giphy.com/embed/oB6KlAvOuaLtxYy8l4" width="220" alt="giphy">](https://angel.co/profile/edit/overview) 
-
+<iframe src="https://giphy.com/embed/WTjXuYA2y4o3UZly3W" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 **Talking about Personal Stuffs:**
 
