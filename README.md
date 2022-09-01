@@ -1,4 +1,5 @@
-# edwards'_profile
+# Edward Oluyara
+
 ### Hey there
 <a href="https://www.linkedin.com/in/edward-oluyara-708b88215/">
   <img align="left" alt="Edward's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -22,17 +23,17 @@
 <br />
 <br />
 
-Hi, I'm Edward Yara, a Full Stack Developer 🚀 from Nigeria, currently, I'm a Community Team Member at [@microverseinc](http://www.microverse.org), student: [ http://www.microverse.org]( http://www.microverse.org), Mentor: [@GraceKagbaghe](https://github.com/gracekabaghe) mailto: [oluyaratosin123@gmail.com]
+Hi, I'm Edward Oluyara, a Full Stack Developer 🚀 from Nigeria
 
 
 [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy" />]
 
 **Talking about Personal Stuffs:**
 
-- 👨 I’m currently a student at microverse;
+- 👨 I’m a graduate at microverse;
 
-- 🌱 I’m currently learning JavaScript, React-Redux, Node,
- Ruby on rails and SQL;
+- 🌱 Experienced JavaScript, React,
+ Ruby, Rails and SQL developer;
 
 - 💬 Ask me about anything, I am happy to help:
 
@@ -61,13 +62,5 @@ Hi, I'm Edward Yara, a Full Stack Developer 🚀 from Nigeria, currently, I'm a 
 <img height="50" width="50" src="https://img.icons8.com/windows/32/000000/ruby-on-rails.png">
 </div>
 
-
-<!--END_SECTION:waka-->
-
-
-
------
-Credits: [edward yara](https://github.com/oluyaratosin123)
-
-Last Edited on: 07/03/2022
+Last Edited on: 01/09/2022
 
